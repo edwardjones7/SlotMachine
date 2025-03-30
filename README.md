@@ -24,4 +24,4 @@ What's next for Slots:
 Improve upon it and make it able to use different types of currencies.
 
 Built With:
-Arduino, Python, DC Motors, LCD Screen, 3d Printed Parts
+Arduino, Python, DC Motors, LCD Screen, 3D Printed Parts
