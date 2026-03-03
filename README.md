@@ -2,7 +2,8 @@
 
 A fully functional physical slot machine built from scratch for Rowan University's ProfHacks hackathon. Every component — from the 3D-printed chassis to the software logic — was designed and built by our team over the course of the hackathon.
 
-![Slot Machine Build](./slot_machine.png)
+![Slot Machine Build]<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/097bae37-357a-4d6c-a19a-8d6f31cd1b45" />
+
 
 ---
 
